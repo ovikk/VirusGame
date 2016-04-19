@@ -1,4 +1,5 @@
-"dependencies":{
+{"dependencies":{
     "express": "3.x",
     "socket.io":"0.9"
+}
 }
